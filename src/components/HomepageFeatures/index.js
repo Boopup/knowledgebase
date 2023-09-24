@@ -3,24 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/Woman reading-cuate.svg').default,
-    description: (
-      <>
-        Find the information you need quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Quick Support',
-    Svg: require('@site/static/img/').default,
-    description: (
-      <>
-      If we missed something, ask us, and it'll be sloved. As simple as that.
-      </>
-    ),
-  },
+  {},
 
 ];
 
